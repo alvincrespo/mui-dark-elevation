@@ -43,6 +43,6 @@ export const Login = () => (
 );
 ```
 
-## Reasources
+## Resources
 
 [Material Design - Dark Theme](https://material.io/design/color/dark-theme.html)

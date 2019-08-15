@@ -1,14 +1,14 @@
 {
-  "name": "mui-dark-elevation",
-  "version": "0.0.1",
-  "description": "MaterialUI dark elevationc calculation",
+  "name": "@alvincrespo/mui-dark-elevation",
+  "version": "0.0.2",
+  "description": "MaterialUI dark theme elevation calculation.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/alvincrespo/mui-dark-elevation.git"
+    "url": "git+https://github.com/alvincrespo/mui-dark-elevation.git"
   },
   "author": "Alvin Crespo",
   "license": "MIT",

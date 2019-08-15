@@ -20,8 +20,6 @@ const theme = {
   }
 };
 
-const colors = generate();
-
 // 2. Create the styles for your component
 export const Styles = {
   Container: styled.div`

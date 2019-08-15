@@ -1,10 +1,11 @@
 {
   "name": "@alvincrespo/mui-dark-elevation",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "MaterialUI dark theme elevation calculation.",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup index.js --format umd --name \"mui\" --file dist/index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/alvincrespo/mui-dark-elevation/issues"
   },
-  "homepage": "https://github.com/alvincrespo/mui-dark-elevation#readme"
+  "homepage": "https://github.com/alvincrespo/mui-dark-elevation#readme",
+  "files": [
+    "dist"
+  ]
 }
